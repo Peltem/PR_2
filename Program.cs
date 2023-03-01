@@ -19,6 +19,9 @@ namespace PZ_7
             Application.Run(new Form1());
         }
     }
+     
+         
+    
     //class Name
     //{
     //    static void Main(string[] args)
